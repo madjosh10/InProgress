@@ -11,7 +11,7 @@ import SwiftUI
 struct InProgressApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            InProgressTabView()
         }
     }
 }
